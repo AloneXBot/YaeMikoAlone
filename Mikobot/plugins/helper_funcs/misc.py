@@ -3,7 +3,6 @@ from math import ceil
 from typing import Dict, List
 from uuid import uuid4
 
-import cv2
 import ffmpeg
 from telegram import (
     Bot,
